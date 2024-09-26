@@ -1,0 +1,42 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "chair_assets",
+    "spritesheetType": "SPARROW",
+    "barColor": [230, 157, 41],
+    "offsetsFlipWhenEnemy": true,
+    "offsetsFlipWhenPlayer": false,
+    "healthIcon": "Chair",
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "chair idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "chair left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "chair down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "chair up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "chair right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}
