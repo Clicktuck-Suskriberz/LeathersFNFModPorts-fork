@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chair_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chair down0000" x="0" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0001" x="0" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0002" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0003" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0004" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0005" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0006" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0007" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0008" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0009" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair down0010" x="442" y="0" width="442" height="490"/>
+	<SubTexture name="chair idle0000" x="884" y="0" width="431" height="493"/>
+	<SubTexture name="chair idle0001" x="884" y="0" width="431" height="493"/>
+	<SubTexture name="chair idle0002" x="884" y="0" width="431" height="493"/>
+	<SubTexture name="chair idle0003" x="884" y="0" width="431" height="493"/>
+	<SubTexture name="chair idle0004" x="1315" y="0" width="431" height="493"/>
+	<SubTexture name="chair idle0005" x="1315" y="0" width="431" height="493"/>
+	<SubTexture name="chair idle0006" x="0" y="493" width="431" height="493"/>
+	<SubTexture name="chair idle0007" x="431" y="493" width="431" height="493"/>
+	<SubTexture name="chair idle0008" x="431" y="493" width="431" height="493"/>
+	<SubTexture name="chair idle0009" x="862" y="493" width="431" height="493"/>
+	<SubTexture name="chair idle0010" x="862" y="493" width="431" height="493"/>
+	<SubTexture name="chair idle0011" x="862" y="493" width="431" height="493"/>
+	<SubTexture name="chair idle0012" x="862" y="493" width="431" height="493"/>
+	<SubTexture name="chair left0000" x="1293" y="493" width="431" height="493"/>
+	<SubTexture name="chair left0001" x="1293" y="493" width="431" height="493"/>
+	<SubTexture name="chair left0002" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0003" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0004" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0005" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0006" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0007" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0008" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0009" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair left0010" x="0" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0000" x="431" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0001" x="431" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0002" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0003" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0004" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0005" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0006" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0007" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0008" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0009" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair right0010" x="862" y="986" width="431" height="493"/>
+	<SubTexture name="chair up0000" x="1293" y="986" width="431" height="493"/>
+	<SubTexture name="chair up0001" x="1293" y="986" width="431" height="493"/>
+	<SubTexture name="chair up0002" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0003" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0004" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0005" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0006" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0007" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0008" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0009" x="0" y="1479" width="431" height="493"/>
+	<SubTexture name="chair up0010" x="0" y="1479" width="431" height="493"/>
+</TextureAtlas>
